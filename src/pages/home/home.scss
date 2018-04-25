@@ -1,0 +1,9 @@
+page-home {
+   .topbtn{
+       display: flex;
+       flex-direction: row;
+   }
+   .topbtn button{
+       flex: 1;
+   }
+}
